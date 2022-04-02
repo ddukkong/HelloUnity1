@@ -36,8 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\TEST.cs" />
-     <Compile Include="Assets\Script\ttest.cs" />
+     <Compile Include="Assets\Script\RigidbodyMove.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
